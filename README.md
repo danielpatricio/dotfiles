@@ -2,7 +2,7 @@
 
 Run this:
 ```
-git clone https://github.com/holman/dotfiles.git ~/.dotfiles
+git clone https://github.com/danielpatricio/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 script/bootstrap
 ```
